@@ -67,3 +67,10 @@ Deliverables
 (3) MySQL schema used for the log data
 
 (4) SQL queries for SQL test
+
+
+Steps to run the program:
+------------------------
+
+1: Execute setup_schema.sql 
+2. Then execute parser.jar 
