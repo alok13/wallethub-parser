@@ -73,4 +73,5 @@ Steps to run the program:
 ------------------------
 
 1: Execute setup_schema.sql 
-2. Then execute parser.jar 
+
+2. Then execute parser.jar . Its location is :https://github.com/alok13/wallethub-parser/tree/master/out/artifacts/parser_jar
